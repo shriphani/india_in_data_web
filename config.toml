@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://indiaindata.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "India in Data"
+theme = "basics"
+
+[params]
+    author = "Shriphani Palakodety"
