@@ -11,3 +11,5 @@ The author, Shriphani Palakodety, is a wood sculptor and computer scientist:
 * Instagram: [@life_of_ess](https://www.instagram.com/life_of_ess/)
 * Twitter: [@shriphani](https://twitter.com/shriphani)
 * Website: [http://shriphani.com](http://shriphani.com)
+
+This blog is also on twitter: [@indiaviz](https://twitter.com/indiaviz)

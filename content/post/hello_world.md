@@ -15,6 +15,6 @@ You can follow me on social media here:
 
 * Instagram: [@life_of_ess](https://www.instagram.com/life_of_ess/)
 * Twitter: [@shriphani](https://twitter.com/shriphani)
-* Personal Blog: [@shriphani](http://shriphani.com)
+* Website: [@shriphani](http://shriphani.com)
 
-This blog is on twitter too [@indiaindata2](https://twitter.com/indiaindata2)
+This blog is also on twitter: [@indiaviz](https://twitter.com/indiaviz)
