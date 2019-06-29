@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "India in Data"
 theme = "basics"
 rssLimit = 20
+googleAnalytics = "UA-143028749-1"
+disqusShortname = "indiaindata-com"
 
 [params]
     author = "Shriphani Palakodety"
