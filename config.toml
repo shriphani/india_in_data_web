@@ -2,6 +2,7 @@ baseURL = "http://indiaindata.com/"
 languageCode = "en-us"
 title = "India in Data"
 theme = "basics"
+rssLimit = 20
 
 [params]
     author = "Shriphani Palakodety"
