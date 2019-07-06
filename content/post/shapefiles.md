@@ -1,7 +1,7 @@
 ---
 title: "Plotting India: Challenges and Resources"
 date: 2019-06-28T17:38:26-07:00
-draft: true
+draft: false
 tags: india, map, plotting, geojson, topojson
 lastmod: 2019-07-05
 ---
