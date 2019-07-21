@@ -1,7 +1,7 @@
 ---
 title: "Disputed Territories in The Subcontinent"
 date: 2019-07-19T11:26:48-07:00
-draft: true
+draft: false
 lastmod: 2019-07-21
 ---
 
