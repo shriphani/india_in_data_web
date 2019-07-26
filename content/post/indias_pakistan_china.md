@@ -2,6 +2,7 @@
 title: "India, Pakistan, China Disputes"
 date: 2019-07-25T23:50:53-07:00
 draft: true
+lastmod: 2019-07-26
 ---
 
 Two new maps illustrating the border disputes between these two countries.
