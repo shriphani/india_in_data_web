@@ -1,7 +1,7 @@
 ---
 title: "Indian Railway Network"
 date: 2019-07-30T15:50:02-07:00
-draft: true
+draft: false
 ---
 
 This plot went viral on the [r/India subreddit](https://reddit.com/r/India). No base
