@@ -4,6 +4,8 @@ date: 2019-08-05T15:56:30-07:00
 draft: false
 ---
 
+_We release a preliminary GeoJSON for the newly created Ladakh Union Territory. This resource is still being developed so no claims can be made about its accuracy._
+
 There is a change in India's internal geography - two new union territories
 are now added to the map. We put together this geojson quickly with 2 data
 sources: (i) [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-breakaway-disputed-areas/) for the polygons
