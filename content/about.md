@@ -8,12 +8,11 @@ and the world viewed through that lens.
 
 Our presence online:
 
-* <a href="https://instagram.com/indiaviz">Instagram</a>
-* <a href="https://twitter.com/indiaviz">Twitter</a>
-* <a href="https://feedburner.google.com/fb/a/mailverify?uri=IndiaInData&amp;loc=en_US">Email</a>
-* <a href="http://feeds.feedburner.com/IndiaInData" rel="alternate" type="application/rss+xml"><img src="//feedburner.google.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/IndiaInData" rel="alternate" type="application/rss+xml">RSS</a>
+* [Instagram](https://www.instagram.com/indiaviz/)
+* [Twitter](https://twitter.com/indiaviz)
+* [Newsletter](https://feedburner.google.com/fb/a/mailverify?uri=IndiaInData&amp;loc=en_US)
 
-The author, Shriphani Palakodety, is a wood sculptor and computer scientist:
+The author, Shriphani Palakodety, is a sculptor and computer scientist:
 
 * Instagram: [@life_of_ess](https://www.instagram.com/life_of_ess/)
 * Twitter: [@shriphani](https://twitter.com/shriphani)
