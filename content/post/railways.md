@@ -10,10 +10,7 @@ map is used. The track LineStrings are plotted as-is and a map of India starts t
 The data is from Geofabrik's OSM extracts. We obtained the railway shapefiles and plotted
 them as-is (source code in the observable notebooks below).
 
-<figure>
-    <img src="/img/railways_3_ig.png" />
-    <caption>Railway Tracks of India</caption>
-</figure>
+![Railway Tracks of India](/img/railways_3_ig.png)
 
 The data seems complete but there are a few mis-annotations like the metro networks of 
 Bangalore and Delhi which technically are different networks.
@@ -21,20 +18,14 @@ Bangalore and Delhi which technically are different networks.
 To identify underserved bits of the country, we can just plot this over raster tiles
 of India. Here is the resulting map.
 
-<figure>
-    <img src="/img/railways_overlaid.png" />
-    <caption>India Railway Network Overlaid on Raster</caption>
-</figure>
+![India Railway Network Overlaid on Raster](/img/railways_overlaid.png)
 
 The immediate next question is what are the least served bits of India. The sparsity
 of a rail network in a region depends on the population density, the terrain (mountains
 make things difficult), and geopolitical situations (terrorism). Here are some of the key 
 sparse areas in the map.
 
-<figure>
-    <img src="/img/railways_sparse.png" />
-    <caption>Areas of sparse rail coverage</caption>
-</figure>
+![Areas of sparse rail coverage](/img/railways_sparse.png)
 
 In clockwise order:
 

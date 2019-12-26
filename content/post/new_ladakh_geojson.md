@@ -13,10 +13,7 @@ of the Aksai Chin, and Demchok (ii) [Datameet's district maps](https://github.co
 and it is not clear if this is the correct geometry or composition at all but it is what we have at the moment. We'll update this
 as soon as we get more information.
 
-<figure>
-    <img src="/img/new_ladakh_ut.png" />
-    <caption>Railway Tracks of India</caption>
-</figure>
+![new-ladakh](/img/new_ladakh_ut.png)
 
 Links
 

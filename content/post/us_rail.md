@@ -8,8 +8,4 @@ In line with the old post of the Indian network, here is the American railway ne
 This was made at the request of a friend. Stunning how sparse the network is west of the
 Mississippi.
 
-
-<figure>
-    <img src="/img/us_rail_ig_3.png" />
-    <caption>US Rail Network</caption>
-</figure>
+![US Rail Network](/img/us_rail_ig_3.png)

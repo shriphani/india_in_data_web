@@ -37,15 +37,15 @@ The Hindustan Times, a highly regarded national
 daily newspaper maintains very high quality geojsons of India with the disputed territories included
 in this git repository: [https://github.com/HindustanTimesLabs/shapefiles](https://github.com/HindustanTimesLabs/shapefiles). Here is this map rendered using d3:
 
-<div style="text-align: center">
-    <img src="/img/india-with-disputed.png" width="75%"/>
-</div>
+![india-disputed](/img/india-with-disputed.png)
 
 ## India Administered Areas Only
 
 We are also releasing a set of geojsons obtained from the [GADM project](https://gadm.org/download_country_v3.html) that are highly accurate.
 If you want a version of India with territories **administered fully by India, and without the disputed bits they don't administer**, these will get the job done. The full
 set of geojsons is available from this git repository: [https://github.com/india-in-data/india_maps](https://github.com/india-in-data/india_maps). When rendered with d3, the map of Indian states looks like this:
+
+![india-adm](/img/india-without-disputed.png)
 
 <div style="text-align: center">
     <img src="/img/india-without-disputed.png" width="75%"/>

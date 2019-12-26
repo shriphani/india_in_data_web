@@ -11,138 +11,49 @@ If these don't work for your device, do let us know and we'll get you one in a s
 
 ### iPhone Wallpapers
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road1_iphone.png">
-        <img src="/wallpapers/road1_iphone.png" width="50%"></a><br/>
-    <a href="/wallpapers/road1_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road2_iphone.png">
-        <img src="/wallpapers/road2_iphone.png" width="50%"></a><br/>
-    <a href="/wallpapers/road2_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road3_iphone.png">
-        <img src="/wallpapers/road3_iphone.png" width="50%"></a><br/>
-    <a href="/wallpapers/road3_iphone.png">Save</a>
-  </div>
-</div>
+![road-1](/img/road1_iphone.png "title-1") | ![road-2](/img/road2_iphone.png "title-2") | ![road-3](/img/road3_iphone.png "title-1")
+|:---:|:---:|:---:|
+| [Link](/img/road1_iphone.png) | [Link](/img/road2_iphone.png) | [Link](/img/road3_iphone.png) |
 
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/road4_iphone.png">
-        <img src="/wallpapers/road4_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/road5_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/road5_iphone.png">
-        <img src="/wallpapers/road5_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/road5_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/road6_iphone.png">
-        <img src="/wallpapers/road6_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/road6_iphone.png">Save</a>
-  </div>
-</div>
+![road-4](/img/road4_iphone.png "title-1") | ![road-5](/img/road4_iphone.png "title-2") | ![road-6](/img/road6_iphone.png "title-1")
+|:---:|:---:|:---:|
+| [Link](/img/road4_iphone.png) | [Link](/img/road5_iphone.png) | [Link](/img/road6_iphone.png) |
 
 <hr/>
 
 ### iPad Wallpapers
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road1_ipad.png">
-        <img src="/wallpapers/road1_ipad.png" ></a><br/>
-    <a href="/wallpapers/road1_ipad.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road2_ipad.png">
-        <img src="/wallpapers/road2_ipad.png" ></a><br/>
-    <a href="/wallpapers/road2_ipad.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road3_ipad.png">
-        <img src="/wallpapers/road3_ipad.png" ></a><br/>
-    <a href="/wallpapers/road3_ipad.png">Save</a>
-  </div>
-</div>
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center;">
-    <a href="/wallpapers/road4_ipad.png">
-        <img src="/wallpapers/road4_ipad.png" ></a><br/>
-    <a href="/wallpapers/road4_ipad.png">Save</a>
-  </div>
-</div>
+![rail-1](/img/road1_ipad.png "title-1") | ![rail-2](/img/road2_ipad.png "title-2") | ![rail-3](/img/road3_ipad.png "title-1")
+|:---:|:---:|:---:|
+| [Link](/img/road1_ipad.png) | [Link](/img/road2_ipad.png) | [Link](/img/road3_ipad.png) |
 
-<hr/>
+![rail-1](/img/road4_ipad.png "title-1")
+|:---:|
+| [Link](/img/road4_ipad.png)
 
 # Railways
 
 ### iPhone
 
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail1_iphone.png">
-        <img src="/wallpapers/rail1_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/rail1_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail2_iphone.png">
-        <img src="/wallpapers/rail2_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/rail2_iphone.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail3_iphone.png">
-        <img src="/wallpapers/rail3_iphone.png" width="50%"><br/>
-    </a>
-    <a href="/wallpapers/rail3_iphone.png">Save</a>
-  </div>
-</div>
-
-<hr/>
+![rail-1](/img/rail1_iphone.png "title-1") | ![rail-2](/img/rail2_iphone.png "title-2") | ![rail-3](/img/rail3_iphone.png "title-1")
+|:---:|:---:|:---:|
+| [Link](/img/rail1_iphone.png) | [Link](/img/rail2_iphone.png) | [Link](/img/rail3_iphone.png) |
 
 ### iPad Wallpapers
 
-<div style="content: ''; clear: both; display: table;">
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail1_ipad.png">
-        <img src="/wallpapers/rail1_ipad.png" ><br/>
-    </a>
-    <a href="/wallpapers/rail1_ipad.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail2_ipad.png">
-        <img src="/wallpapers/rail2_ipad.png" ><br/>
-    </a>
-    <a href="/wallpapers/rail2_ipad.png">Save</a>
-  </div>
-  <div style="float: left; width: 33.33%; padding: 5px; text-align: center">
-    <a href="/wallpapers/rail3_ipad.png">
-        <img src="/wallpapers/rail3_ipad.png" ><br/>
-    </a>
-    <a href="/wallpapers/rail3_ipad.png">Save</a>
-  </div>
-</div>
 
-<hr />
+![rail-1](/img/rail1_ipad.png "title-1") | ![rail-2](/img/rail2_ipad.png "title-2") | ![rail-3](/img/rail3_ipad.png "title-1")
+|:---:|:---:|:---:|
+| [Link](/img/rail1_ipad.png) | [Link](/img/rail2_ipad.png) | [Link](/img/rail3_ipad.png) |
 
 # United States Railways
 
 ### iPad
 
-<div style="content: ''; clear: both; display: table; width: 50%; text-align: center">
-    <a href="/wallpapers/us1_ipad.png">
-        <img src="/wallpapers/us1_ipad.png" ><br/>
-    </a>
-    <a href="/wallpapers/us1_ipad.png">Save</a>
-</div>
+
+![rail-1](/img/us1_ipad.png "title-1")
+|:---:|
+| [Link](/img/us1_ipad.png)

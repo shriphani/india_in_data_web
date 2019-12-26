@@ -1,13 +1,10 @@
 ---
 title: "Rivers"
 date: 2019-08-12T02:42:06-07:00
-draft: true
+draft: false
 ---
 
-<figure>
-    <a href="/img/rivers_2.png"><img src="/img/rivers_2.png" /></a>
-    <caption>India Rivers</caption>
-</figure>
+![india-rivers](/img/rivers_2.png)
 
 ### Links:
 
