@@ -40,21 +40,11 @@ disqusShortname = "indiaindata-com"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-
-      [[languages.en.menu.main]]
-        identifier = "wallpapers"
-        name = "Wallpapers"
-        url = "/about"
-
-      [[languages.en.menu.main]]
-        identifier = "resources"
-        name = "Resources"
-        url = "/resources"
-
-      [[languages.en.menu.main]]
-        identifier = "press"
-        name = "Press"
-        url = "/press"
