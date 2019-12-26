@@ -26,8 +26,7 @@ disqusShortname = "indiaindata-com"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "indiaviz"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
