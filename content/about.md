@@ -18,6 +18,8 @@ and the world viewed through that lens.
 
 ### About The Author:
 
+![shriphani](/img/shriphani.png)
+
 * Instagram: [@life_of_ess](https://www.instagram.com/life_of_ess/)
 * Twitter: [@shriphani](https://twitter.com/shriphani)
 * Website: [http://shriphani.com](http://shriphani.com)

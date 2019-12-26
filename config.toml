@@ -1,4 +1,4 @@
-baseURL = "http://indiaindata.com/"
+baseURL = "https://indiaviz.org/"
 languageCode = "en-us"
 title = "India in Data"
 theme = "terminal"
@@ -12,13 +12,13 @@ disqusShortname = "indiaindata-com"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
   #  author = "Shriphani Palakodety"
@@ -40,11 +40,21 @@ disqusShortname = "indiaindata-com"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "home"
+        identifier = "item-1"
         name = "Home"
         url = "/"
 
       [[languages.en.menu.main]]
-        identifier = "about"
+        identifier = "item-2"
         name = "About"
         url = "/about"
+
+      [[languages.en.menu.main]]
+        identifier = "item-3"
+        name = "Resources"
+        url = "/post/city_shapefiles/"
+
+      [[languages.en.menu.main]]
+        identifier = "item-4"
+        name = "Wallpapers"
+        url = "/post/transportation_wallpapers/"
